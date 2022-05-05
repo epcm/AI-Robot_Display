@@ -15,13 +15,16 @@
 ## 效果展示
 
 ![](https://raw.githubusercontent.com/epcm/AI-Robot_Display/main/gifs/upload.gif)
+
 机器人移动到货架前观察点，摄像头识别空货架位置与所需货物，前往货物暂存区，寻找所需货物，对准并抓紧货物，回到货架，将物品放上货架，前往下一个货架
 
 ![](https://raw.githubusercontent.com/epcm/AI-Robot_Display/main/gifs/fetch.gif)
+
 等待键盘指令，接到“取红罐子”指令，前往对应货架，摄像头识别所需货物位置，对准并抓紧货物，前往出货位置，将货物放置在传送带，机械臂抓取货物放入箱子
 
 
 ![](https://raw.githubusercontent.com/epcm/AI-Robot_Display/main/gifs/navigate.gif)
+
 每个货架前设置一个巡航点，小车依次在四个巡航点之间移动，左侧为rviz可视化的小车路线以及坐标，背景为加载的由slam得到的地图，地图中间两个位置相近的坐标系为map和odom坐标系，运动的为小车坐标系，可以代表小车所在的相对位置，绿色的轨迹为要抵达目标所规划的行进路线。
 
 ## Progress
