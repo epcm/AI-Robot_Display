@@ -37,4 +37,4 @@
 4. 两车均增加激光雷达，雷达使用自定义的proto(./protos/SickLms291.proto)
 ## 致谢
 
-%本项目基于sszxc的项目[GitHub - sszxc/Super_Transbot: Supermarket Transport Robot](https://github.com/sszxc/Super_Transbot)
+
